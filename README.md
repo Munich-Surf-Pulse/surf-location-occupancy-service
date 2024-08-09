@@ -46,3 +46,13 @@ spring.datasource.password=yourpassword
 ./gradlew bootRun --args='--spring.profiles.active=dev'
 ```
 The service will be available at http://localhost:8080.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
+## Contact
+If you have any questions, suggestions, or feedback, feel free to reach out:
+
+Email: g.mahlknecht@gmail.com
+
+Thank you for being a part of the Munich Surf Pulse community

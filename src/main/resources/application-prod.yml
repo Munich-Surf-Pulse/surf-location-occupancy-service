@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://${MONGO_DB_USERNAME}:${MONGO_DB_PASSWORD}@${MONGO_DB_CLUSTER}.mongodb.net/${MONGO_DB_DATABASE}?retryWrites=true&w=majority&appName=${MONGO_DB_APP_NAME}
+server:
+  port: 8080
